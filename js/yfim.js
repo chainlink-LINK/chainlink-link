@@ -70,7 +70,7 @@ var trans = {
     v41: 'Airdrop remaining quantity',
     v42: 'Crowdfunding remaining amount',
     v50: 'Rewards for participation: Users can get 10 LINK rewards for participation, and 10 LINK rewards can be obtained again for each user invited to participate.',
-    v51: 'Crowdfunding time: 2020-10-08 to 2020-11-08',
+    v51: 'Crowdfunding time: 2020-10-06 to 2020-11-06',
     v52: 'Crowd-funding price: 1 ETH = 1000 LINK, 0.001 ETH to start the subscription',
   },
   zh_cn: {
@@ -133,7 +133,7 @@ var trans = {
     v41: '空投剩余数量',
     v42: '众筹剩余数量',
     v50: '参与奖励：用户参与即可获得10枚LINK奖励，每邀请一名用户参与，可再次获得10枚LINK奖励。',
-    v51: '众筹时间：2020-10-08 至 2020-11-08',
+    v51: '众筹时间：2020-10-06 至 2020-11-06',
     v52: '众筹价格：1 ETH = 1000 LINK，0.001枚ETH即可开启认筹',
   }
 };
